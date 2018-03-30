@@ -2,6 +2,8 @@ This is the accompanying repository for a small side project that consists of ta
 
 You can find the article here: [What are Python's most-used modules?](https://bsolomon1124.github.io/import_counts/)
 
+------
+
 # Data description
 
 The compressed archive `imports.tar.gz` includes 3 tabular data structures, each exported as a JSON and CSV file (for a total of 6 files).
